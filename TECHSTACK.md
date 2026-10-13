@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — أداة إدارة صلاحيات الأجهزة والملفات محلياً
+# 🛠️ Technologies Used — Local Device & File Permissions Manager
 
 - C# WinForms
 - .NET 8

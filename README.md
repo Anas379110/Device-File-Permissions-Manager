@@ -1,21 +1,20 @@
-# أداة إدارة صلاحيات الأجهزة والملفات محلياً
-**Local Device & File Permissions Manager** · التصنيف: منصة تجارية
+# Local Device & File Permissions Manager
+**Local Device & File Permissions Manager** · Classification: Commercial platform
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
-> Project overview document — source code is not included.
+> Project overview document (specifications and technologies) — source code is not included.
 
-## نبذة عن المشروع
-أداة مفيدة للفرق الصغيرة التي تخشى تسرب البيانات أو مشاركة الملفات بشكل غير منضبط.
+## About the project
+A useful tool for small teams concerned about data leakage or uncontrolled file sharing.
 
-## أبرز النقاط
-- قواعد صلاحيات لكل مستخدم/جهاز
-- سجل وصول وتنبيهات للنشاط غير المعتاد
-- محلية بالكامل بدون اعتماد على السحابة
+## Highlights
+- Permission rules per user/device
+- Access log and alerts for unusual activity
+- Fully local with no cloud dependency
 
-## الدور
-مطوّر منصات أعمال: تحليل المتطلبات وبناء النظام ولوحة الإدارة وقاعدة البيانات والتقارير.
+## Role
+Business Platforms Developer: requirements analysis and building the system, administration panel, database, and reports.
 
-## التقنيات المستخدمة
+## Technologies used
 C# WinForms, .NET 8, SQLite, RBAC, Audit Log, Windows APIs
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
